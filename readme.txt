@@ -7,3 +7,4 @@ Creating a new branch is quick and simple.
 No "Fast forward."
 try Fast forword.
 HAAHAH
+gpg signature.
